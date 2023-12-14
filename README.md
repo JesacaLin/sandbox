@@ -1,1 +1,1 @@
-# sandbox
+# This is a sandbox so I can practice git operations and how to use IntelliJ!
